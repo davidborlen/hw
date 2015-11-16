@@ -3,5 +3,5 @@
 //cambio
 //ejemplo...
 echo "hello world";//hola mundo
-//comentario
+//comentario 2
 ?>
