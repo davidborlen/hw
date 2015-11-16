@@ -1,6 +1,6 @@
 # hw
 <?php
 //cambio
-//ejemplo......
+//ejemplo...
 echo "hello world";//hola mundo
 ?>
