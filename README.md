@@ -1,3 +1,4 @@
 # hw
-hello world
-change
+<?php
+echo "hello world";
+?>
