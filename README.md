@@ -1,4 +1,8 @@
 # hw
 <?php
-echo "hello world";
+//cambio
+//ejemplo...
+echo "hello world";//hola mundo
+//comentario 2
+//+ comentarios
 ?>
