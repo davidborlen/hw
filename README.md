@@ -1,5 +1,5 @@
 # hw
 <?php
-//ejemplo
+//ejemplo...
 echo "hello world";//hola mundo
 ?>
